@@ -114,9 +114,8 @@ along with a confidence score.
 ## 📁 Project Structure
 
 Cat-vs-Dog-Classification/
-├── dataset/
-├── notebook.ipynb
-├── README.md
+├── Cat_vs_Dog_Classifier.ipynb
+└── README.md
 
 
 ---
